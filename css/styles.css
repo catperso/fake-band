@@ -28,3 +28,9 @@ h1 {
 body {
   background-color: brown;
 }
+
+.column {
+  width: 300px;
+  float: left;
+  margin-left: 20px;
+}

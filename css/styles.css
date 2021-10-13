@@ -3,6 +3,12 @@
   width: 15%;
   background-color: aquamarine;
   font-style: italic;
+  border: 3px solid yellowgreen;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+  text-align: center;
+  list-style-position: inside;
 }
 
 .image {
@@ -11,6 +17,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 15%;
+  padding: 15px;
 }
 
 .image2 {
@@ -19,6 +26,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 15%;
+  padding: 15px;
 }
 
 h1 {
